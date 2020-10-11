@@ -1,0 +1,16 @@
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.exe
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.deps.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.runtimeconfig.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.runtimeconfig.dev.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\encrypto.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\cryptolib.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\bin\Debug\netcoreapp3.1\cryptolib.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.csprojAssemblyReference.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.AssemblyInfoInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.AssemblyInfo.cs
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.csproj.CoreCompileInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.csproj.CopyComplete
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\encrypto\obj\Debug\netcoreapp3.1\encrypto.genruntimeconfig.cache

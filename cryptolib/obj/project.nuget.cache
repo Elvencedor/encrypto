@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZP6uLYyajTXRaLu8TutWJb797WKFxL2hnYEleS+/nZ+mCM/KUkzcDqS56uSizFsuEZYz2p+rGFF0MQ4gAiluQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vencedor\\Documents\\net-core\\cryptoapp\\cryptolib\\cryptolib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vencedor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vencedor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

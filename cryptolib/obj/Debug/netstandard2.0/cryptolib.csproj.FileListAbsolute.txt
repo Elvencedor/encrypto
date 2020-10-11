@@ -1,0 +1,9 @@
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\bin\Debug\netstandard2.0\cryptolib.deps.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\bin\Debug\netstandard2.0\cryptolib.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\bin\Debug\netstandard2.0\cryptolib.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.csprojAssemblyReference.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.AssemblyInfoInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.AssemblyInfo.cs
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.csproj.CoreCompileInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\cryptolib\obj\Debug\netstandard2.0\cryptolib.pdb
