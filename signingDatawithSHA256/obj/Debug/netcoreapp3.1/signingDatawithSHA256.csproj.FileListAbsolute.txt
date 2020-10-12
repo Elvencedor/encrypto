@@ -1,0 +1,16 @@
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.csprojAssemblyReference.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.AssemblyInfoInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.AssemblyInfo.cs
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.csproj.CoreCompileInputs.cache
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.exe
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.deps.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.runtimeconfig.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.runtimeconfig.dev.json
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\signingDatawithSHA256.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\cryptolib.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\bin\Debug\netcoreapp3.1\cryptolib.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.csproj.CopyComplete
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.dll
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.pdb
+C:\Users\Vencedor\Documents\net-core\cryptoapp\signingDatawithSHA256\obj\Debug\netcoreapp3.1\signingDatawithSHA256.genruntimeconfig.cache

@@ -155,5 +155,16 @@ namespace cryptolib
 
         return ToBase64String(rsa.SignHash(hashedData, HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1));
     }
+
+    public static bool ValidateSignature (string data, string signature) {
+        byte[] dataBytes = Encoding.Unicode.GetBytes(data);
+        var sha = SHA256.Create();
+        var hashedData = sha.ComputeHash(dataBytes);
+        byte[] signatureBytes = FromBase64String(signature);
+        var rsa = RSA.Create();
+        rsa.FromXmlStringExt(publicKey);
+
+        return rsa.VerifyHash(hashedData, signatureBytes, HashAlgorithmName.SHA256, RSASignaturePadding.Pkcs1);
+    }
   }
 }
